@@ -10,6 +10,11 @@
 | 取得資格 | 実用英語技能検定3級<br>品質管理検定3級<br>危険物取扱者乙種全類<br>情報技術検定2級<br>計算技術検定2級<br>2級自主保全士<br>2級ボイラー技士<br>3級普通旋盤技能士<br>機械製図検定 |
 | 狙っている資格 | ITパスポート<br>AWS認定資格<br>基本情報技術者 |
 
+## Career
+
+| 2021年 | DMM WEBCAMP 卒業 |
+| :---: | :--: |
+
 ## Status
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanbaru-github&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
