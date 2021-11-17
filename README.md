@@ -1,6 +1,6 @@
 ## Profile
 
-| items | value |
+| key | value |
 | :--- | :---: |
 | 名前 | 鈴木 |
 | 生年月日 | 1998/11/4 |
