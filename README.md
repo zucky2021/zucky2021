@@ -2,7 +2,7 @@
 
 | Key | Value |
 | :--- | :---: |
-| Name | Suzuki |
+| Name | ズッキー |
 | Date of birth | 1998/11/4 |
 | Motto | 全体の合計は個々の総和よりも大きい |
 | Hobby | 読書、音楽鑑賞、音楽ゲーム|
