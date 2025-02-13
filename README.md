@@ -21,14 +21,6 @@
 | AD | EVENTS |
 | :--: | :--: |
 | 2021 | DMM WEBCAMP 卒業 |
-|  | WEB開発企業へ入社 |
+|  | SIer企業へ入社 |
+| 2025 | 自社開発企業へ転職 |
 
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanbaru-github&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanbaru-github&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kanbaru-github&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanbaru-github&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kanbaru-github&theme=gruvbox&utcOffset=9)
-
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=kanbaru-github&theme=gruvbox)
